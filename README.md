@@ -4,6 +4,12 @@ Tugas final project komnum 2025
 
 ---
 
+Nama Anggota :
+1.Arya Raka F. (5053241007)
+2.Kelvin Aubert J. (5053241044)
+3.Syafiq Ahmad I. (5053241037)
+4.Arya Ramadhan (5053241033)
+5.M.Akbar Handoko B. (5053241023)
 
 Cara kerja Kode: 
 
